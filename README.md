@@ -1,6 +1,10 @@
 # alinumber_generation
 Most Slowest Number Generator
 
+!!! WARNING !!!
+
+END OF CYCLE IN THIS GENERATOR IS TECHNICALLY IMPOSSIBLE
+
 ## How its works?
 Lets say, we have a seq (sequence) like this:
 
