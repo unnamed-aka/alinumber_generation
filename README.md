@@ -8,7 +8,9 @@ END OF CYCLE IN THIS GENERATOR IS TECHNICALLY IMPOSSIBLE
 ## How its works?
 Lets say, we have a seq (sequence) like this:
 
-`1 [n = 2, k = 3]`
+```
+1 [n = 2, k = 3]
+```
 
 If LT (last seq number) equales 0, then replace LT to n-1 (n, if LT = 1) copyes of LT-1
 
