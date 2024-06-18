@@ -17,7 +17,7 @@ while True:
             seq[-k:] = [seq[-1] + 1] * 2
             n += 2
             
-            if not (n in past_k or n == k):
+            if not (n in past_lt or n == k):
                 k = n
                 past_lt += [seq[-1]]
         else:
